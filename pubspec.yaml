@@ -1,7 +1,7 @@
 name: google_drive_main_view
-description: "Description here"
+description: "Google Drive Main View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/google_drive_main_view
 
 version: 1.0.0+1
 
